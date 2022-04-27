@@ -37,7 +37,7 @@ router.post('/', async (req, res, next) => {
     return async (req, res) => {
       let article = req.article
       article.title = req.body.title
-      article.content = req.body.description
+      article.content = req.body.content
       article.markdown = req.body.markdown
       try {
         article = await article.save()
