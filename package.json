@@ -16,5 +16,13 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigranKocharyan/Node_project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TigranKocharyan/Node_project/issues"
+  },
+  "homepage": "https://github.com/TigranKocharyan/Node_project#readme",
   "description": ""
 }
